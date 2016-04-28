@@ -1,3 +1,4 @@
-# hello-world
+﻿# hello-world
 test
-Testar och försöker förstå git!
+Testar och förstår git!
+Det går ju fan!
